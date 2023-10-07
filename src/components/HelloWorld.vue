@@ -4,9 +4,12 @@
     <Button label="Normal" icon="pi pi-check" />
     <Button label="Large" icon="pi pi-check" size="large" />
   </div>
+
+  <NavbarComponent/>
 </template>
 
 <script>
+
 export default {
   name: 'HelloWorld',
   props: {
