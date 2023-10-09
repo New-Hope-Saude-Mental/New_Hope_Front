@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="d-flex justify-content-center">
+        <div class="d-flex align-content-center">
 
             <div class="" style="max-width: 70rem; margin-top: 80px;">
 
