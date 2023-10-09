@@ -1,8 +1,8 @@
 <template>
     <div>
-        <div class="d-flex align-content-center">
+        <div class="d-flex justify-content-center">
 
-            <div class="" style="max-width: 70rem; margin-top: 80px;">
+            <div class="" style="max-width: 80rem; margin-top: 80px;">
 
                 <h1>
                     INFORMAÇÕES
@@ -107,116 +107,149 @@
             </div>
         </div>
 
+        <div class="d-flex justify-content-center">
 
+            <div>
 
+                <div style="margin-top: 5rem;">
+                    <h1>
+                        DADOS COLETADOS
+                    </h1>
+                </div>
 
-        <div style="margin-top: 5rem;">
-            <h1>
-                DADOS COLETADOS
-            </h1>
+                <div class="d-flex mt-5" style="max-width: 80rem;">
+                    <img src="../assets/img/paisagem.jpeg" alt="" style="max-height: 60rem;max-width: 40rem;">
+                    <p class="ms-5 text-start">
+                        A admissão na unidade de terapia intensiva (UTI) de um parente pode levar ao sofrimento
+                        psicológico,e
+                        também
+                        ao luto complicado. Esse transtorno acontece em 21% dos familiares de pacientes que estão na UTI, e
+                        vem
+                        acompanhado da ansiedade, que ocorre em 40% dos casos, e da depressão, 23% dos casos. Contudo, a
+                        comunicação
+                        entre a equipe do hospital e os familiares é essencial no processo de cuidado e melhora da qualidade
+                        do
+                        atendimento, gerando uma maior confiança na relação estabelecida.
+
+                        <br />
+                        <br />
+
+                        Além disso, 44% dos pacientes que foram hospitalizados com transtornos relacionados ao álcool ou
+                        substâncias
+                        foram diagnosticados com transtornos mentais duplos. Segundo Kessler et al. dos adultos que tinham
+                        um
+                        transtorno por uso de substâncias, aproximadamente 17,2% tinham doença mental grave. Kessler et al.;
+                        Sacks,
+                        Sacks, De Leon, Bernhardt & Staines relataram que, 20% a 50% pacientes com transtornos mentais
+                        tinham
+                        transtornos de substâncias co-ocorrentes, e 50% a 75% com transtornos de substância tinham
+                        transtornos
+                        mentais concomitantes.
+
+                        <br />
+                        <br />
+
+                        Segundo o BRAYNE, Carol et al. sintomas depressivos são um fator de risco para internações
+                        hospitalares
+                        gerais. Além disso, esses sintomas demonstraram possibilidade de serem preditores da admissão
+                        consecutiva em
+                        um hospital. Outrossim, a depressão está independentemente associada a um maior tempo de permanência
+                        e
+                        maior
+                        risco de readmissão
+                    </p>
+                </div>
+            </div>
+
+        </div>
+        <div class="d-flex justify-content-center">
+
+            <div class="d-flex row " style="margin: 70px;max-width: 80rem;">
+                <li class="me-5 col text-start">
+                    Gammon encontrou que os pacientes que estavam em quartos de isolamento demonstraram mais sentimentos de
+                    ansiedade, depressão e baixa auto-estima do que os pacientes que receberam cuidados em quartos
+                    hospitalares
+                    compartilhados
+
+                    <br />
+                    <br />
+
+                    Chiarchiaro encontrou um declínio acentuado em emocional, funcional e físico bem-estar após a internação
+                    dos
+                    pacientes na unidade de terapia intensiva.
+                </li>
+                <li class="ms-5 col text-start">
+                    Timmerman e Olsen relatam que a luz solar nos quartos dos pacientes desempenhou um papel crucial no
+                    apoio a
+                    pensamentos e emoções positivas entre pacientes gravemente enfermos. Também descobriram que olhar para a
+                    natureza através das janelas melhorava o humor e as emoções dos pacientes, conectando-os com suas
+                    memórias.
+                </li>
+            </div>
         </div>
 
-        <div class="d-flex mt-5">
-            <img src="../assets/img/paisagem.jpeg" alt="" style="max-height: 60rem;max-width: 40rem;">
-            <p class="ms-5 text-start">
-                A admissão na unidade de terapia intensiva (UTI) de um parente pode levar ao sofrimento psicológico,e também
-                ao luto complicado. Esse transtorno acontece em 21% dos familiares de pacientes que estão na UTI, e vem
-                acompanhado da ansiedade, que ocorre em 40% dos casos, e da depressão, 23% dos casos. Contudo, a comunicação
-                entre a equipe do hospital e os familiares é essencial no processo de cuidado e melhora da qualidade do
-                atendimento, gerando uma maior confiança na relação estabelecida.
 
-                <br />
-                <br />
 
-                Além disso, 44% dos pacientes que foram hospitalizados com transtornos relacionados ao álcool ou substâncias
-                foram diagnosticados com transtornos mentais duplos. Segundo Kessler et al. dos adultos que tinham um
-                transtorno por uso de substâncias, aproximadamente 17,2% tinham doença mental grave. Kessler et al.; Sacks,
-                Sacks, De Leon, Bernhardt & Staines relataram que, 20% a 50% pacientes com transtornos mentais tinham
-                transtornos de substâncias co-ocorrentes, e 50% a 75% com transtornos de substância tinham transtornos
-                mentais concomitantes.
+        <div class="d-flex justify-content-start">
 
-                <br />
-                <br />
+            <div style="max-width: 55rem;margin-left: 8rem;">
+                <h1 class="d-flex justify-content-start">
+                    Referências
+                </h1>
+                <h5 class="mt-5 text-start" style="font-size: medium;">
+                    - LIU, Y. et al. The effects of comprehensive mental intervention on the recovery time of patients with
+                    postsurgical gastroparesis syndrome. Journal of Clinical Nursing, 5 abr. 2014.‌
 
-                Segundo o BRAYNE, Carol et al. sintomas depressivos são um fator de risco para internações hospitalares
-                gerais. Além disso, esses sintomas demonstraram possibilidade de serem preditores da admissão consecutiva em
-                um hospital. Outrossim, a depressão está independentemente associada a um maior tempo de permanência e maior
-                risco de readmissão
-            </p>
+                    <br />
+                    <br />
+
+                    -OVERVIEW World mental health report: Transforming mental health for all. Estados Unidos da América:
+                    World
+                    Health Organization, 16 de junho de 2022.
+
+                    <br />
+                    <br />
+
+                    -PRINA, Matthew et al. The association between depressive symptoms in the community, non-psychiatric
+                    hospital admission and hospital outcomes: A systematic review. Reino Unido, 8 de novembro de 2014.
+
+                    <br />
+                    <br />
+
+                    -SULLIVAN,Erin et al. The association between posttraumatic stress symptoms, depression, and length of
+                    hospital stay following traumatic injury. Estados Unidos da América: 9 de Março de 2017.
+
+                    <br />
+                    <br />
+
+                    -TIMMERMAN, Olsen e Gammon. The effect of hospitalization on patients' emotional and psychological
+                    well-being among adult patients: An integrative review. Naif Alzahrani. Arábia Saudita: 12 Agosto de
+                    2021.
+
+                    <br />
+                    <br />
+
+                    -VLAKE, Johan et al. Virtual reality for relatives of ICU patients to improve psychological sequelae:
+                    study
+                    protocol for a multicentre, randomized controlled trial; 14 de setembro de 2021.
+
+                    <br />
+                    <br />
+
+                    -WORLD mental health report: transforming mental health for all. Geneva: World Health Organization, 16
+                    de
+                    junho de 2022.
+
+                    <br />
+                    <br />
+
+                    -YANG, Jingzhen. Hospitalizations and hospital charges for co-occurring substance use and mental
+                    disorders.
+                    Estados Unidos da América: 28 de Fevereiro de 2011
+                </h5>
+            </div>
         </div>
 
-
-        <div class="d-flex row" style="margin: 70px;">
-            <li class="me-5 col text-start">
-                Gammon encontrou que os pacientes que estavam em quartos de isolamento demonstraram mais sentimentos de
-                ansiedade, depressão e baixa auto-estima do que os pacientes que receberam cuidados em quartos hospitalares
-                compartilhados
-
-                <br />
-                <br />
-
-                Chiarchiaro encontrou um declínio acentuado em emocional, funcional e físico bem-estar após a internação dos
-                pacientes na unidade de terapia intensiva.
-            </li>
-            <li class="ms-5 col text-start">
-                Timmerman e Olsen relatam que a luz solar nos quartos dos pacientes desempenhou um papel crucial no apoio a
-                pensamentos e emoções positivas entre pacientes gravemente enfermos. Também descobriram que olhar para a
-                natureza através das janelas melhorava o humor e as emoções dos pacientes, conectando-os com suas memórias.
-            </li>
-        </div>
-
-
-        <div style="max-width: 55rem;">
-            <h1 class="d-flex justify-content-start">
-                Referências
-            </h1>
-            <h5 class="mt-5 text-start" style="font-size: medium;">
-                - LIU, Y. et al. The effects of comprehensive mental intervention on the recovery time of patients with
-                postsurgical gastroparesis syndrome. Journal of Clinical Nursing, 5 abr. 2014.‌
-
-                <br />
-                <br />
-
-                -OVERVIEW World mental health report: Transforming mental health for all. Estados Unidos da América: World
-                Health Organization, 16 de junho de 2022.
-
-                <br />
-                <br />
-
-                -PRINA, Matthew et al. The association between depressive symptoms in the community, non-psychiatric
-                hospital admission and hospital outcomes: A systematic review. Reino Unido, 8 de novembro de 2014.
-
-                <br />
-                <br />
-
-                -SULLIVAN,Erin et al. The association between posttraumatic stress symptoms, depression, and length of
-                hospital stay following traumatic injury. Estados Unidos da América: 9 de Março de 2017.
-
-                <br />
-                <br />
-
-                -TIMMERMAN, Olsen e Gammon. The effect of hospitalization on patients' emotional and psychological
-                well-being among adult patients: An integrative review. Naif Alzahrani. Arábia Saudita: 12 Agosto de 2021.
-
-                <br />
-                <br />
-
-                -VLAKE, Johan et al. Virtual reality for relatives of ICU patients to improve psychological sequelae: study
-                protocol for a multicentre, randomized controlled trial; 14 de setembro de 2021.
-
-                <br />
-                <br />
-
-                -WORLD mental health report: transforming mental health for all. Geneva: World Health Organization, 16 de
-                junho de 2022.
-
-                <br />
-                <br />
-
-                -YANG, Jingzhen. Hospitalizations and hospital charges for co-occurring substance use and mental disorders.
-                Estados Unidos da América: 28 de Fevereiro de 2011
-            </h5>
-        </div>
 
 
 

@@ -1,5 +1,5 @@
 <template>
-    <div class="" style="margin-top: 200px">
+    <div class="conteudo" style="margin-top: 200px">
         <p class="fs-3 text-start">Olá!</p>
         <div class="fs text-start">
             <p>
@@ -140,7 +140,17 @@ export default {
       
       <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-/* .img{
-    display:flex
-} */
+.img {
+    display: flex
+}
+
+
+
+
+.conteudo {
+    background-color: rgba(255, 255, 255, 0.7);
+    /* Cor de fundo semi-transparente */
+    padding: 20px;
+    margin: 20px;
+}
 </style>

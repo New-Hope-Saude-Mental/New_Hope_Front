@@ -1,11 +1,11 @@
 <template>
     <div>
         <div>
-            <h1>
+            <h1 class="mt-5">
                 DEPOIMENTOS
             </h1>
         </div>
-        <div>
+        <div class="mt-5">
             <p class="text-start">
                 Relato da psicóloga <strong>Margaret Simas Ramos Matos</strong>,graduada pela Unip desde 1990, psicanalista
                 pelo instituto
