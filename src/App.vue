@@ -1,16 +1,41 @@
 <template>
-<NavbarComponent/>
-  <router-view/>
+  <div v-if="acceptedTerms">
+
+    <NavbarComponent />
+    <router-view />
+
+  </div>
+  <div class="mt-5" v-else>
+    <button class="btn btn-primary" @click="showTermsModal">Aceitar Termos e Condições</button>
+    <Termos v-if="showModal" @acceptTerms="acceptTerms" />
+  </div>
 </template>
 
 <script>
 
 import NavbarComponent from "@/components/NavbarComponent.vue";
+import Termos from "@/components/TermosComponent.vue"
 
 export default {
   name: 'App',
   components: {
     NavbarComponent,
+    Termos
+  },
+  data() {
+    return {
+      acceptedTerms: false,
+      showModal: false,
+    };
+  },
+  methods: {
+    showTermsModal() {
+      this.showModal = true;
+    },
+    acceptTerms() {
+      this.acceptedTerms = true;
+      this.showModal = false;
+    },
   },
 }
 </script>
@@ -18,25 +43,24 @@ export default {
 
 
 
-<style>   
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<style>   #app {
+     font-family: Avenir, Helvetica, Arial, sans-serif;
+     -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+     text-align: center;
+     color: #2c3e50;
+   }
 
-nav {
-  padding: 30px;
-}
+   nav {
+     padding: 30px;
+   }
 
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
+   nav a {
+     font-weight: bold;
+     color: #2c3e50;
+   }
 
-nav a.router-link-exact-active {
-  color: #42b983;
-}
+   nav a.router-link-exact-active {
+     color: #42b983;
+   }
 </style>
