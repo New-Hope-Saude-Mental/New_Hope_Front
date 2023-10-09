@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar shadow " style="border-bottom: 5px solid;border-color: rgba(145, 110, 58, 0.808);">
+    <nav class="navbar shadow " style="border-bottom: 5px solid;border-color: #9D897D;">
         <div class="container-fluid d-flex ">
             <div class="navbar-brand d-flex ">
                 <img src="../assets/img/logo6.png" style="height: 4rem;" @click="$router.push({ path: '/' })">
