@@ -15,6 +15,9 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui commodi facilis accusantium culpa perferendis ipsa
             autem in consequatur deleniti, sunt officia, iusto debitis aliquid fugiat necessitatibus esse? Ipsam, laudantium
             nihil?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui commodi facilis accusantium culpa perferendis ipsa
+            autem in consequatur deleniti, sunt officia, iusto debitis aliquid fugiat necessitatibus esse? Ipsam, laudantium
+            nihil?</p>
 
     </div>
 </template>
@@ -24,7 +27,7 @@
     
 <script>
 export default {
-    name: 'HomeComponent',
+    name: 'InformacoesComponent',
     methods: {
 
     },

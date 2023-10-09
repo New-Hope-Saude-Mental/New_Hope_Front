@@ -1,33 +1,45 @@
 <template>
-    <nav class="navbar shadow">
-        <div class="container-fluid d-flex">
-            <div class="navbar-brand">
-                <img src="../assets/img/logo.png" style="height: 4rem;">
-                <a class="nome-empresa link-offset-2  fs-5 link-underline link-underline-opacity-0 fs-2">New Hope</a>
-                <br>
-                <a class="links link-offset-2  fs-5 link-underline link-underline-opacity-0">Saúde mental</a>
+    <nav class="navbar shadow " style="border-bottom: 5px solid;border-color: rgba(145, 110, 58, 0.808);">
+        <div class="container-fluid d-flex ">
+            <div class="navbar-brand d-flex ">
+                <img src="../assets/img/logo6.png" style="height: 4rem;" @click="$router.push({ path: '/' })">
+                <div class="d-block" @click="$router.push({ path: '/' })">
+                    <div class="dvlogo">
+                        <a class="text-start fs nome-empresa link-offset-2 link-underline link-underline-opacity-0 ">New
+                            Hope</a>
+                    </div>
+                    <div class="dvlogo">
+                        <a class="fs links link-offset-2   link-underline link-underline-opacity-0">Saúde mental</a>
+                    </div>
+                </div>
             </div>
-            <div class="links d-flex gap-3 fs-6 justify-content-end">
-                <a class="link-offset-2 link-underline link-underline-opacity-0" href="#">Informações</a>
-                <a class="link-offset-2 link-underline link-underline-opacity-0" href="#">Perguntas frequentes</a>
-                <a class="link-offset-2 link-underline link-underline-opacity-0" href="#">Depoimentos</a>
+            <div class="links d-flex gap-3 justify-content-end">
+                <a class="link-offset-2 link-underline link-underline-opacity-0" href="#"
+                    @click="$router.push({ path: '/Depoimentos' })">Informações</a>
+                <a class="link-offset-2 link-underline link-underline-opacity-0" href="#"
+                    @click="$router.push({ path: '/Informacoes' })">Perguntas frequentes</a>
+                <a class="link-offset-2 link-underline link-underline-opacity-0" href="#"
+                    @click="$router.push({ path: '/Perguntas' })">Depoimentos</a>
             </div>
         </div>
 
     </nav>
+
+    <teste />
 </template>
   
 
 
 
 <script>
+import teste from "@/components/HomeComponent.vue"
 export default {
     name: 'NavbarComponent',
     methods: {
 
     },
     components: {
-
+        teste
     },
 
 }
@@ -35,6 +47,14 @@ export default {
   
   <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.fs {
+    font-size: small;
+}
+
+.dvlogo {
+    height: 17px;
+}
+
 .navbar {
     background-color: #e4d5cb;
 }
