@@ -2,7 +2,7 @@
     <nav class="navbar shadow">
         <div class="container-fluid d-flex">
             <div class="navbar-brand">
-                <img src="src/assets/21.svg ">
+                <img src="../assets/img/logo.png" style="height: 4rem;">
                 <a class="nome-empresa link-offset-2  fs-5 link-underline link-underline-opacity-0 fs-2">New Hope</a>
                 <br>
                 <a class="links link-offset-2  fs-5 link-underline link-underline-opacity-0">Saúde mental</a>
@@ -43,7 +43,7 @@ export default {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.links{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.links {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 </style>
