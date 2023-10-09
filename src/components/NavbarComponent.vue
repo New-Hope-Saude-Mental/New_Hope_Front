@@ -5,15 +5,15 @@
                 <img src="../assets/img/logo6.png" style="height: 4rem;" @click="$router.push({ path: '/' })">
                 <div class="d-block" @click="$router.push({ path: '/' })">
                     <div class="dvlogo">
-                        <a class="text-start fs nome-empresa link-offset-2 link-underline link-underline-opacity-0 ">New
+                        <a class="text-start fs-3 nome-empresa link-offset-2 link-underline link-underline-opacity-0 ">New
                             Hope</a>
                     </div>
-                    <div class="dvlogo">
-                        <a class="fs links link-offset-2   link-underline link-underline-opacity-0">Saúde mental</a>
+                    <div class="dvlogo pt-3">
+                        <a class="fs-6 links link-offset-2   link-underline link-underline-opacity-0">Saúde mental</a>
                     </div>
                 </div>
             </div>
-            <div class="links d-flex gap-3 justify-content-end">
+            <div class="links d-flex gap-4 justify-content-end">
                 <a class="link-offset-2 link-underline link-underline-opacity-0" href="#"
                     @click="$router.push({ path: '/Depoimentos' })">Informações</a>
                 <a class="link-offset-2 link-underline link-underline-opacity-0" href="#"
@@ -47,9 +47,9 @@ export default {
   
   <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-.fs {
+/* .fs {
     font-size: small;
-}
+} */
 
 .dvlogo {
     height: 17px;
