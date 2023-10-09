@@ -1,17 +1,17 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeComponent from '../components/HomeComponent.vue'
+import HomeView from '../components/HomeView.vue'
 import NavbarComponent from '../components/NavbarComponent.vue'
-import PerguntasComponent from '../components/PerguntasComponent.vue'
-import InformacoesComponent from '../components/InformacoesComponent.vue'
-import DepoimentosComponent from '../components/DepoimentosComponent.vue'
+import PerguntasView from '../components/PerguntasView.vue'
+import InformacoesView from '../components/InformacoesView.vue'
+import DepoimentosView from '../components/DepoimentosView.vue'
 
 
 
 const routes = [
   {
     path: '/',
-    name: 'home',
-    component: HomeComponent
+    name: 'HomeView',
+    component: HomeView
   },  
   {
     path: '/menu',
@@ -20,18 +20,18 @@ const routes = [
   },  
   {
     path: '/Depoimentos',
-    name: 'DepoimentosComponent',
-    component: DepoimentosComponent,
+    name: 'DepoimentosView',
+    component: DepoimentosView,
   },  
   {
     path: '/Informacoes',
-    name: 'InformacoesComponent',
-    component: InformacoesComponent,
+    name: 'InformacoesView',
+    component: InformacoesView,
   },  
   {
     path: '/Perguntas',
-    name: 'PerguntasComponent',
-    component: PerguntasComponent,
+    name: 'PerguntasView',
+    component: PerguntasView,
   },
 ]
 

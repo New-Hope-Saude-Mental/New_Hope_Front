@@ -15,31 +15,29 @@
             </div>
             <div class="links d-flex gap-4 justify-content-end">
                 <a class="link-offset-2 link-underline link-underline-opacity-0" href="#"
-                    @click="$router.push({ path: '/Depoimentos' })">Informações</a>
+                    @click="$router.push({ path: '/Informacoes' })">Informações</a>
                 <a class="link-offset-2 link-underline link-underline-opacity-0" href="#"
-                    @click="$router.push({ path: '/Informacoes' })">Perguntas frequentes</a>
+                    @click="$router.push({ path: '/Perguntas' })">Perguntas frequentes</a>
                 <a class="link-offset-2 link-underline link-underline-opacity-0" href="#"
-                    @click="$router.push({ path: '/Perguntas' })">Depoimentos</a>
+                    @click="$router.push({ path: '/Depoimentos' })">Depoimentos</a>
             </div>
         </div>
 
     </nav>
-
-    <teste />
 </template>
   
 
 
 
 <script>
-import teste from "@/components/HomeComponent.vue"
+
 export default {
     name: 'NavbarComponent',
     methods: {
 
     },
     components: {
-        teste
+
     },
 
 }
