@@ -1,5 +1,7 @@
 <template>
+    <img class="img img-fluid" src="../assets/img/ImgHome.png">
     <div class="container-fluid ">
+
         <div class="row">
             <div class="col">
 
@@ -33,4 +35,9 @@ export default {
 </script>
       
       <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped></style>
+<style scoped>
+.img {
+    width: 300%;
+    text-align: top;
+}
+</style>
