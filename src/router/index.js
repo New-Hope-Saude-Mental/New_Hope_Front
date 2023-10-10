@@ -4,6 +4,7 @@ import NavbarComponent from '../components/NavbarComponent.vue'
 import PerguntasView from '../components/PerguntasView.vue'
 import InformacoesView from '../components/InformacoesView.vue'
 import DepoimentosView from '../components/DepoimentosView.vue'
+// import FooterComponent from '../components/FooterComponent.vue'
 
 
 
@@ -33,6 +34,11 @@ const routes = [
     name: 'PerguntasView',
     component: PerguntasView,
   },
+  // {
+  //   path: '/Footer',
+  //   name: 'FooterComponent',
+  //   component:FooterComponent,
+  // },
 ]
 
 export const router = createRouter({

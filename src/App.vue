@@ -3,7 +3,7 @@
 
     <NavbarComponent />
     <router-view />
-
+    <FooterComponent/>
   </div>
   <div class="mt-5" v-else>
     <button class="btn btn-primary" @click="showTermsModal">Aceitar Termos e Condições</button>
@@ -15,12 +15,14 @@
 
 import NavbarComponent from "@/components/NavbarComponent.vue";
 import Termos from "@/components/TermosComponent.vue"
+import FooterComponent from "./components/FooterComponent.vue";
 
 export default {
   name: 'App',
   components: {
     NavbarComponent,
-    Termos
+    Termos,
+    FooterComponent,
   },
   data() {
     return {
