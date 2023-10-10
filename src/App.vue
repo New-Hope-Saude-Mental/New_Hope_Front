@@ -3,7 +3,7 @@
 
     <NavbarComponent />
     <router-view />
-    <FooterComponent/>
+    <FooterComponent />
   </div>
   <div class="mt-5" v-else>
     <button class="btn btn-primary" @click="showTermsModal">Aceitar Termos e Condições</button>

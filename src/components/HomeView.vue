@@ -1,20 +1,12 @@
 <template>
     <!-- <img class="img img-fluid" src="../assets/img/ImgHome.png"> -->
-    <div class="container-fluid home">
+    <div class="home" style="height: 93vh;">
 
-        <div class="row">
-            <div class="col">
 
-            </div>
-            <div class="col-10">
-                <Home style="margin-top: 91vh;" />
-            </div>
-            <div class="col ">
 
-            </div>
-        </div>
 
     </div>
+    <Home />
 </template>
       
     
@@ -41,8 +33,8 @@ export default {
     text-align: top;
 } */
 
-
 .home {
+    z-index: -1;
     background-image: url('../assets/img/ImgHome.png');
 
     /* Defina o tamanho e a posição da imagem */
@@ -53,10 +45,6 @@ export default {
     background-attachment: fixed;
 
     /* Garanta que a imagem ocupe toda a altura da janela do navegador */
-    height: 100vh;
 
-    /* Evite a repetição da imagem */
-    background-repeat: no-repeat;
-    height: 91vh;
 }
 </style>
