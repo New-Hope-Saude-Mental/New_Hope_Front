@@ -5,7 +5,7 @@ import PerguntasView from "../components/PerguntasView.vue";
 import InformacoesView from "../components/InformacoesView.vue";
 import DepoimentosView from "../components/DepoimentosView.vue";
 // import FooterComponent from '../components/FooterComponent.vue'
-import Termos from "@/components/TermosComponent.vue";
+import TermosView from "@/components/TermosView.vue";
 
 const routes = [
   {
@@ -35,8 +35,8 @@ const routes = [
   },
   {
     path: "/Termos",
-    name: "Termos",
-    component: Termos,
+    name: "TermosView",
+    component: TermosView,
   },
   // {
   //   path: '/Footer',

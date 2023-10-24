@@ -1,9 +1,9 @@
 <template>
-    <footer class="text-center text-lg-start bg-light text-muted zi">
+    <footer class="text-center text-lg-start bg-light text-muted zi justify-content-end">
         <section class="" style="background-color: #d0bbae;">
             <div class="container text-center text-md-start">
 
-                <div class="row" style="padding-top:20px;">
+                <div class="row" style="padding-top:20px; color:#2c3e50">
 
                     <div class="col-xl-3 mx-auto">
                         <img src="../assets/img/logo6.png" style="height: 4rem;">
@@ -31,8 +31,6 @@
                         </p>
                     </div>
 
-
-
                     <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
 
                         <h6 class="text-uppercase fw-bold mb-4">Contate-nos</h6>
@@ -48,7 +46,7 @@
         </section>
 
 
-        <div class="text-center p-4" style="background-color: #b69d8e;">
+        <div class="text-center p-4" style="background-color: #b69d8e; color:#2c3e50">
             © 2023 Copyright:
             <a class="text-reset fw-bold" href="https://mdbootstrap.com/">NewHope</a>
         </div>

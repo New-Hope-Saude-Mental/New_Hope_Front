@@ -116,7 +116,7 @@
                     </div>
 
                     <div class="d-flex justify-content-center mt-5" style="margin-bottom:60px;">
-                        <div class="d-flex align-content-center flex-wrap me-5" style="max-width: 40rem;">
+                        <div class="d-flex align-content-center flex-wrap me-5">
 
                             <p class="fs-3 text-start">Conselhos</p>
                             <ul>
@@ -187,7 +187,7 @@
                             </ul>
                         </div>
                         <img class="ms-5 d-flex justify-content-center" src="../assets/img/Medicos.png"
-                            style="margin: 10px;">
+                            style="width: 800px;">
                     </div>
 
 
