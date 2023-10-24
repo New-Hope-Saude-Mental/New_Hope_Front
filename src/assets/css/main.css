@@ -1,3 +1,9 @@
+
+:root{
+    --bg-gradient: radial-gradient(circle farthest-corner at 32% 26%, #B1DBF1 0%, #2B9AD6 36.0321044921875%, #DDAAE6 75.677490234375%)
+}
+
+
 body{
     margin: 0;
     padding: 0;

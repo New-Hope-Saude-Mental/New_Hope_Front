@@ -1,9 +1,9 @@
 <template>
     <footer class="text-center text-lg-start bg-light text-muted zi">
         <section class="" style="background-color: #d0bbae;">
-            <div class="container text-center text-md-start mt-5">
+            <div class="container text-center text-md-start">
 
-                <div class="row mt-3" style="padding-top:20px;">
+                <div class="row" style="padding-top:20px;">
 
                     <div class="col-xl-3 mx-auto">
                         <img src="../assets/img/logo6.png" style="height: 4rem;">

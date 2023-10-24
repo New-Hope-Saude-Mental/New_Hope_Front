@@ -20,6 +20,8 @@
                     @click="$router.push({ path: '/Perguntas' })">Perguntas frequentes</a>
                 <a class="link-offset-2 link-underline link-underline-opacity-0" href="#"
                     @click="$router.push({ path: '/Depoimentos' })">Depoimentos</a>
+                <a class="link-offset-2 link-underline link-underline-opacity-0" href="#"
+                    @click="$router.push({ path: '/Termos' })">Termos</a>
             </div>
         </div>
 

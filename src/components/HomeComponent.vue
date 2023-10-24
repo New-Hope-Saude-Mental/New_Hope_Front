@@ -9,7 +9,7 @@
                 <div class="conteudo" style="margin-top: 200px">
                     <p class="fs-3 text-start">Olá!</p>
                     <div class="fs text-start">
-                        <p>
+                        <p class=" text-justify">
                             Bem-vindo ao nosso projeto!
 
                             Somos alunas do Colégio Guilherme Dumont Villares do Itinerário Formativo Saúde e Sociedade e
@@ -21,15 +21,75 @@
                             ajudar e trazer mais conforto às pessoas que enfrentam essa situação desafiadora.
                         </p>
                     </div>
+                    <div class="d-flex flex-wrap">
+                        <div class="d-flex align-items-center">
+                            <div class="flex-shrink-0">
+                                <img class="img img-fluid" src="../assets/img/Leticia.png"
+                                    style="margin: 20px; width: 300px; height: 400px;">
+                            </div>
+                            <div class="flex-grow-1" style="width: 20vh;">
+                                <p class="text-start">
+                                    Nome: William Fraga Victor Xarmene Dantas Wilson
+                                </p>
+                                <p class="text-start">
+                                    Idade:
+                                </p>
+                                <p class="text-start">
+                                    Turma:
+                                </p>
+                                <p class="text-start">
+                                    Sobre:
+                                </p>
+                            </div>
 
-                    <img class="img img-fluid" src="../assets/img/Meninas.png" style="margin: 30px;">
-                    <div class="fs text-start">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, sed explicabo quibusdam
-                            quas unde hic nisi,
-                            labore in asperiores, animi deserunt? At excepturi corporis nam iusto odio quia similique
-                            incidunt?</p>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <div class="flex-shrink-0">
 
-                        <p style="margin-top:20px; margin-bottom: 30px">Nosso projeto é uma iniciativa estudantil que tem
+                                <img class="img img-fluid" src="../assets/img/Ana.png"
+                                    style="margin: 20px; width: 300px; height: 400px;">
+                            </div>
+                            <div class="flex-grow-1" style="width: 20vh;">
+                                <p class="text-start">
+                                    Nome: William Fraga Victor Xarmene Dantas Wilson
+                                </p>
+                                <p class="text-start">
+                                    Idade:
+                                </p>
+                                <p class="text-start">
+                                    Turma:
+                                </p>
+                                <p class="text-start">
+                                    Sobre:
+                                </p>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <div class="flex-shrink-0 ">
+
+                                <img class="img img-fluid" src="../assets/img/Yasmin.png"
+                                    style="margin: 20px;  width: 300px; height: 400px;">
+                            </div>
+                            <div class="flex-grow-1" style="width: 20vh;">
+                                <p class="text-start">
+                                    Nome: William Fraga Victor Xarmene Dantas Wilson
+                                </p>
+                                <p class="text-start">
+                                    Idade:
+                                </p>
+                                <p class="text-start">
+                                    Turma:
+                                </p>
+                                <p class="text-start">
+                                    Sobre:
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container-fluid fs text-start">
+                        <p style="margin-top:20px; margin-bottom: 30px">Nosso projeto é
+                            uma iniciativa
+                            estudantil que tem
                             como propósito
                             entender e melhorar a experiência das pessoas
                             hospitalizadas. Ao longo de nossa jornada, estamos focadas em: Pesquisar e compreender as
@@ -61,56 +121,64 @@
                             <p class="fs-3 text-start">Conselhos</p>
                             <ul>
                                 <li>
-                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ducimus corporis
+                                    <p class="text-start">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam
+                                        ducimus corporis
                                         distinctio qui
                                         quasi facere labore assumenda debitis magnam, ratione enim harum! Nemo hic corporis
                                         nihil
                                         aspernatur, sapiente dolor numquam?</p>
                                 </li>
                                 <li>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum et harum veniam
+                                    <p class="text-start">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
+                                        et harum veniam
                                         recusandae qui
                                         quam obcaecati perferendis animi eum totam perspiciatis tempora ullam nesciunt
                                         tenetur alias
                                         odit consequatur, in architecto.</p>
                                 </li>
                                 <li>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum et harum veniam
+                                    <p class="text-start">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
+                                        et harum veniam
                                         recusandae qui
                                         quam obcaecati perferendis animi eum totam perspiciatis tempora ullam nesciunt
                                         tenetur alias
                                         odit consequatur, in architecto.</p>
                                 </li>
                                 <li>
-                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ducimus corporis
+                                    <p class="text-start">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam
+                                        ducimus corporis
                                         distinctio qui
                                         quasi facere labore assumenda debitis magnam, ratione enim harum! Nemo hic corporis
                                         nihil
                                         aspernatur, sapiente dolor numquam?</p>
                                 </li>
                                 <li>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum et harum veniam
+                                    <p class="text-start">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
+                                        et harum veniam
                                         recusandae qui
                                         quam obcaecati perferendis animi eum totam perspiciatis tempora ullam nesciunt
                                         tenetur alias
                                         odit consequatur, in architecto.</p>
                                 </li>
                                 <li>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum et harum veniam
+                                    <p class="text-start">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
+                                        et harum veniam
                                         recusandae qui
                                         quam obcaecati perferendis animi eum totam perspiciatis tempora ullam nesciunt
                                         tenetur alias
                                         odit consequatur, in architecto.</p>
                                 </li>
                                 <li>
-                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ducimus corporis
+                                    <p class="text-start">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam
+                                        ducimus corporis
                                         distinctio qui
                                         quasi facere labore assumenda debitis magnam, ratione enim harum! Nemo hic corporis
                                         nihil
                                         aspernatur, sapiente dolor numquam?</p>
                                 </li>
                                 <li>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum et harum veniam
+                                    <p class="text-start">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
+                                        et harum veniam
                                         recusandae qui
                                         quam obcaecati perferendis animi eum totam perspiciatis tempora ullam nesciunt
                                         tenetur alias
@@ -198,20 +266,5 @@ export default {
     /* Cor de fundo semi-transparente */
     padding: 20px;
     margin: 20px;
-}
-
-.home {
-    z-index: -1;
-    background-image: url('../assets/img/ImgHome.png');
-
-    /* Defina o tamanho e a posição da imagem */
-    background-size: cover;
-    background-position: center center;
-
-    /* Fixe a imagem no fundo */
-    background-attachment: fixed;
-
-    /* Garanta que a imagem ocupe toda a altura da janela do navegador */
-
 }
 </style>
