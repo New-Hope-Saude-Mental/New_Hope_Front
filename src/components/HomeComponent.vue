@@ -21,72 +21,47 @@
                             ajudar e trazer mais conforto às pessoas que enfrentam essa situação desafiadora.
                         </p>
                     </div>
-                    <div class="d-flex flex-wrap">
-                        <div class="d-flex align-items-center">
+                    <div class="d-flex flex-wrap justify-content-center">
+                        <div class="d-flex align-items-end">
                             <div class="flex-shrink-0">
                                 <img class="img img-fluid" src="../assets/img/Leticia.png"
-                                    style="margin: 20px; width: 300px; height: 400px;">
+                                    style="margin: 15px; width: 150px; height: 200px;">
                             </div>
-                            <div class="flex-grow-1" style="width: 20vh;">
+                            <div class="flex-grow-4" style="width: 15vh;">
                                 <p class="text-start">
-                                    Nome: William Fraga Victor Xarmene Dantas Wilson
-                                </p>
-                                <p class="text-start">
-                                    Idade:
-                                </p>
-                                <p class="text-start">
-                                    Turma:
-                                </p>
-                                <p class="text-start">
-                                    Sobre:
+                                    Eu sou a Letícia Masini Andreotti, tenho 18 anos e quero cursar
+                                    Psicologia.
                                 </p>
                             </div>
 
                         </div>
-                        <div class="d-flex align-items-center">
+                        <div class="d-flex align-items-end">
                             <div class="flex-shrink-0">
-
                                 <img class="img img-fluid" src="../assets/img/Ana.png"
-                                    style="margin: 20px; width: 300px; height: 400px;">
+                                    style="margin: 15px; width: 150px; height: 200px;">
                             </div>
-                            <div class="flex-grow-1" style="width: 20vh;">
+                            <div class="flex-grow-1" style="width: 15vh;">
                                 <p class="text-start">
-                                    Nome: William Fraga Victor Xarmene Dantas Wilson
-                                </p>
-                                <p class="text-start">
-                                    Idade:
-                                </p>
-                                <p class="text-start">
-                                    Turma:
-                                </p>
-                                <p class="text-start">
-                                    Sobre:
+                                    Eu sou a Ana Bárbara Perri Andrade Feitosa De Souza, tenho 18 anos e quero cursar
+                                    Medicina.
                                 </p>
                             </div>
                         </div>
-                        <div class="d-flex align-items-center">
+                        <div class="d-flex align-items-end">
                             <div class="flex-shrink-0 ">
 
                                 <img class="img img-fluid" src="../assets/img/Yasmin.png"
-                                    style="margin: 20px;  width: 300px; height: 400px;">
+                                    style="margin: 15px;  width: 150px; height: 200px;">
                             </div>
-                            <div class="flex-grow-1" style="width: 20vh;">
+                            <div class="flex-grow-1" style="width: 15vh;">
                                 <p class="text-start">
-                                    Nome: William Fraga Victor Xarmene Dantas Wilson
-                                </p>
-                                <p class="text-start">
-                                    Idade:
-                                </p>
-                                <p class="text-start">
-                                    Turma:
-                                </p>
-                                <p class="text-start">
-                                    Sobre:
+                                    Eu sou a Yasmin Ahmed el Bacha, tenho 17 anos e quero cursar Medicina.
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <div class="container-fluid fs text-start">
+
+                    <div class="fs text-start"> 
                         <p style="margin-top:20px; margin-bottom: 30px">Nosso projeto é
                             uma iniciativa
                             estudantil que tem
@@ -121,73 +96,57 @@
                             <p class="fs-3 text-start">Conselhos</p>
                             <ul>
                                 <li>
-                                    <p class="text-start">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam
-                                        ducimus corporis
-                                        distinctio qui
-                                        quasi facere labore assumenda debitis magnam, ratione enim harum! Nemo hic corporis
-                                        nihil
-                                        aspernatur, sapiente dolor numquam?</p>
+                                    <p class="text-start">Converse regularmente com sua equipe médica sobre seu estado de
+                                        saúde, tratamento e expectativas. Uma compreensão clara de sua situação pode reduzir
+                                        a incerteza e a ansiedade;</p>
                                 </li>
                                 <li>
-                                    <p class="text-start">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-                                        et harum veniam
-                                        recusandae qui
-                                        quam obcaecati perferendis animi eum totam perspiciatis tempora ullam nesciunt
-                                        tenetur alias
-                                        odit consequatur, in architecto.</p>
+                                    <p class="text-start">Defina metas alcançáveis para si mesmo, como completar uma pequena
+                                        tarefa diária. Isso pode ajudar a manter um senso de propósito e realização;</p>
                                 </li>
                                 <li>
-                                    <p class="text-start">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-                                        et harum veniam
-                                        recusandae qui
-                                        quam obcaecati perferendis animi eum totam perspiciatis tempora ullam nesciunt
-                                        tenetur alias
-                                        odit consequatur, in architecto.</p>
+                                    <p class="text-start">Mesmo durante a hospitalização, mantenha contato com amigos e
+                                        familiares por meio de chamadas telefônicas, videochamadas ou mensagens. O apoio
+                                        social é fundamental;</p>
                                 </li>
                                 <li>
-                                    <p class="text-start">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam
-                                        ducimus corporis
-                                        distinctio qui
-                                        quasi facere labore assumenda debitis magnam, ratione enim harum! Nemo hic corporis
-                                        nihil
-                                        aspernatur, sapiente dolor numquam?</p>
+                                    <p class="text-start">Participe de terapias ocupacionais, fisioterapia e atividades
+                                        recreativas oferecidas no hospital. Isso pode ajudar a ocupar o tempo e melhorar o
+                                        bem-estar;</p>
                                 </li>
-                                <li>
-                                    <p class="text-start">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-                                        et harum veniam
-                                        recusandae qui
-                                        quam obcaecati perferendis animi eum totam perspiciatis tempora ullam nesciunt
-                                        tenetur alias
-                                        odit consequatur, in architecto.</p>
-                                </li>
-                                <li>
-                                    <p class="text-start">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-                                        et harum veniam
-                                        recusandae qui
-                                        quam obcaecati perferendis animi eum totam perspiciatis tempora ullam nesciunt
-                                        tenetur alias
-                                        odit consequatur, in architecto.</p>
-                                </li>
-                                <li>
-                                    <p class="text-start">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam
-                                        ducimus corporis
-                                        distinctio qui
-                                        quasi facere labore assumenda debitis magnam, ratione enim harum! Nemo hic corporis
-                                        nihil
-                                        aspernatur, sapiente dolor numquam?</p>
-                                </li>
-                                <li>
-                                    <p class="text-start">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-                                        et harum veniam
-                                        recusandae qui
-                                        quam obcaecati perferendis animi eum totam perspiciatis tempora ullam nesciunt
-                                        tenetur alias
-                                        odit consequatur, in architecto.</p>
-                                </li>
+
                             </ul>
                         </div>
                         <img class="ms-5 d-flex justify-content-center" src="../assets/img/Medicos.png"
-                            style="width: 800px;">
+                            style="width: 300px; height: 500px;">
+                    </div>
+
+                    <div class="d-flex justify-content-center mt-5" style="margin-bottom:60px;">
+                        <img class="ms-5 d-flex justify-content-center" src="../assets/img/Meditacao.png"
+                            style="width: 300px; height: 500px;">
+                        <div class="d-flex align-content-center flex-wrap me-5">
+                            <ul>
+                                <li>
+                                    <p class="text-start">Aprenda técnicas de respiração profunda e relaxamento para
+                                        controlar a ansiedade. A meditação e a ioga podem ser úteis;</p>
+                                </li>
+                                <li>
+                                    <p class="text-start">Encontre hobbies ou atividades que possa realizar dentro das
+                                        limitações da hospitalização, como leitura, artesanato, jogos ou aprendizado online;
+                                    </p>
+                                </li>
+                                <li>
+                                    <p class="text-start">Mantenha uma dieta equilibrada e, se permitido pelo seu estado de
+                                        saúde, faça exercícios leves, como alongamentos, para manter seu corpo e mente
+                                        saudáveis;</p>
+                                </li>
+                                <li>
+                                    <p class="text-start">Embora o apoio de amigos e familiares seja crucial, estabeleça
+                                        limites para garantir que você tenha tempo para descansar e se concentrar em seu
+                                        bem- estar.</p>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
 
 
@@ -253,8 +212,7 @@ export default {
 </script>
       
       <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-.img {
+<style scoped>.img {
     display: flex
 }
 

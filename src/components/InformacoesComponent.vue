@@ -88,7 +88,7 @@
                 <div class="d-flex justify-content-center mt-5">
                     <div class="me-5 d-flex justify-content-center">
 
-                        <img src="../assets/img/montanha.png" alt="" style="max-height: 20rem;">
+                        <img src="../assets/img/Apoio.png" alt="" style="max-height: 20rem;">
                     </div>
                     <div class="d-flex align-content-center flex-wrap ms-5" style="max-width: 40rem;">
 
@@ -133,13 +133,13 @@
                     <div>
 
                         <div style="margin-top: 5rem;">
-                            <h1>
+                            <h1 class="d-flex justify-content-start mt-5">
                                 DADOS COLETADOS
                             </h1>
                         </div>
 
                         <div class="d-flex mt-5" style="max-width: 80rem;">
-                            <img src="../assets/img/paisagem.jpeg" alt="" style="max-height: 35rem;max-width: 25rem;">
+                            <img src="../assets/img/Internação.png" alt="" style="max-height: 35rem;max-width: 20rem;">
                             <div class="ms-4 text-start">
                                 <p>
                                     A admissão na unidade de terapia intensiva (UTI) de um parente pode levar ao sofrimento
@@ -178,43 +178,42 @@
                                     transtornos
                                     mentais concomitantes.
                                 </p>
-                                <p>
-                                    Segundo o BRAYNE, Carol et al. sintomas depressivos são um fator de risco para
-                                    internações
-                                    hospitalares
-                                    gerais. Além disso, esses sintomas demonstraram possibilidade de serem preditores da
-                                    admissão
-                                    consecutiva em
-                                    um hospital. Outrossim, a depressão está independentemente associada a um maior tempo de
-                                    permanência
-                                    e
-                                    maior
-                                    risco de readmissão
-                                </p>
                             </div>
                         </div>
+                        <p class="ms-6 mt-2 text-start">
+                            Segundo o BRAYNE, Carol et al. sintomas depressivos são um fator de risco para
+                            internações
+                            hospitalares
+                            gerais. Além disso, esses sintomas demonstraram possibilidade de serem preditores da
+                            admissão
+                            consecutiva em
+                            um hospital. Outrossim, a depressão está independentemente associada a um maior tempo de
+                            permanência
+                            e
+                            maior
+                            risco de readmissão
+                        </p>
                     </div>
 
                 </div>
                 <div class="d-flex justify-content-center">
 
-                    <div class="d-flex row " style="margin: 70px;max-width: 80rem;">
-                        <li class="me-5 col text-start">
+                    <div>
+                        <ul>
+                        <li class="text-start">
                             Gammon encontrou que os pacientes que estavam em quartos de isolamento demonstraram mais
                             sentimentos de
                             ansiedade, depressão e baixa auto-estima do que os pacientes que receberam cuidados em quartos
                             hospitalares
                             compartilhados
-
-                            <br />
-                            <br />
-
+                        </li>
+                        <li class="text-start">
                             Chiarchiaro encontrou um declínio acentuado em emocional, funcional e físico bem-estar após a
                             internação
                             dos
                             pacientes na unidade de terapia intensiva.
                         </li>
-                        <li class="ms-5 col text-start">
+                        <li class="text-start">
                             Timmerman e Olsen relatam que a luz solar nos quartos dos pacientes desempenhou um papel crucial
                             no
                             apoio a
@@ -224,6 +223,7 @@
                             suas
                             memórias.
                         </li>
+                        </ul>
                     </div>
                 </div>
 
@@ -231,8 +231,8 @@
 
                 <div class="d-flex justify-content-start">
 
-                    <div style="max-width: 55rem;margin-left: 8rem;">
-                        <h1 class="d-flex justify-content-start">
+                    <div>
+                        <h1 class="d-flex justify-content-start mt-5">
                             Referências
                         </h1>
                         <h5 class="mt-5 text-start" style="font-size: medium;">

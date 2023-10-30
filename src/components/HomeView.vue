@@ -3,14 +3,19 @@
     <div class="video-background" style="height: 100vh;">
 
         <div class="rainbow-overlay"></div>
-        <div class="d-flex justify-content-center pt-5">
-
-            <h2 class="pt-5" style="max-width: 55vh;z-index: 10;">
+        <div class="container">
+        <div class="row d-flex justify-content-center pt-5">
+            <div classs="col"></div>
+            <div class="col-10">
+                <h2 class="pt-5" style="z-index: 10;">
                 Efeitos da hospitalização no estado emocional e psicológicos dos pacientes afetados por doenças crônicas e
                 internação
             </h2>
         </div>
-
+            
+            <div classs="col"></div>
+        </div>
+</div>
         <video autoplay loop muted playsinline class="background-video">
             <source src="@/assets/img/file.mp4" type="video/mp4">
             Seu navegador não suporta a reprodução de vídeos.
