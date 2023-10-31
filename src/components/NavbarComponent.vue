@@ -4,12 +4,13 @@
             <div class="navbar-brand d-flex ">
                 <img src="../assets/img/LogoOfc.jpeg" style="height: 4rem;" @click="$router.push({ path: '/' })">
                 <div class="d-block" @click="$router.push({ path: '/' })">
-                    <div class="dvlogo">
-                        <a class="text-start fs-3 nome-empresa link-offset-2 link-underline link-underline-opacity-0 ">New
-                            Hope</a>
+                    <div class="dvlogo ">
+                        <p class="text-start fs-3 nome-empresa  ">New
+                            Hope</p>
                     </div>
-                    <div class="dvlogo pt-3">
-                        <a class="fs-6 links link-offset-2   link-underline link-underline-opacity-0">Saúde mental</a>
+                    <div class="dvlogo pt-3 ">
+                        <p class="text-start fs-6 links ">Saúde
+                            Mental</p>
                     </div>
                 </div>
             </div>
@@ -51,8 +52,10 @@ export default {
     font-size: small;
 } */
 @import url(https://fonts.google.com/specimen/Sometype+Mono?query=somet);
+
 .dvlogo {
     height: 17px;
+    font-weight: bold;
 }
 
 .navbar {
@@ -69,7 +72,7 @@ export default {
     color: #E3E3E3;
 }
 
-.text{
+.text {
     font-family: 'Sometype Mono', sans-serif;
     color: #E3E3E3;
 }
