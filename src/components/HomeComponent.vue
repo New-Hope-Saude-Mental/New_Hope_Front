@@ -22,46 +22,45 @@
                         </p>
                     </div>
                     <div class="d-flex flex-wrap justify-content-center">
-                        <div class="d-flex align-items-end">
+                        <div class=" m-auto align-items-end">
                             <div class="flex-shrink-0">
                                 <img class="img img-fluid" src="../assets/img/Leticia.png"
-                                    style="margin: 15px; width: 150px; height: 200px;">
+                                    style=" width: 200px; height: 250px;">
                             </div>
-                            <div class="flex-grow-4" style="width: 15vh;">
+                            <div class="flex-grow-4 pt-3" style="width: 15vh;">
                                 <p class="text-start">
-                                    Eu sou a Letícia Masini Andreotti, tenho 18 anos e quero cursar
-                                    Psicologia.
+                                    (Eu sou a Letícia Masini Andreotti, tenho 18 anos e quero cursar
+                                    Psicologia.)
                                 </p>
                             </div>
 
                         </div>
-                        <div class="d-flex align-items-end">
+                        <div class=" m-auto align-items-end">
                             <div class="flex-shrink-0">
-                                <img class="img img-fluid" src="../assets/img/Ana.png"
-                                    style="margin: 15px; width: 150px; height: 200px;">
+                                <img class="img img-fluid" src="../assets/img/Ana.png" style="width: 200px; height: 250px;">
                             </div>
-                            <div class="flex-grow-1" style="width: 15vh;">
+                            <div class="flex-grow-1 pt-3" style="width: 15vh;">
                                 <p class="text-start">
-                                    Eu sou a Ana Bárbara Perri Andrade Feitosa De Souza, tenho 18 anos e quero cursar
-                                    Medicina.
+                                    (Eu sou a Ana Bárbara Perri Andrade Feitosa De Souza, tenho 18 anos e quero cursar
+                                    Medicina.)
                                 </p>
                             </div>
                         </div>
-                        <div class="d-flex align-items-end">
+                        <div class="m-auto align-items-end">
                             <div class="flex-shrink-0 ">
 
                                 <img class="img img-fluid" src="../assets/img/Yasmin.png"
-                                    style="margin: 15px;  width: 150px; height: 200px;">
+                                    style="width: 200px; height: 250px;">
                             </div>
-                            <div class="flex-grow-1" style="width: 15vh;">
+                            <div class="flex-grow-1 pt-3" style="width: 15vh;">
                                 <p class="text-start">
-                                    Eu sou a Yasmin Ahmed el Bacha, tenho 17 anos e quero cursar Medicina.
+                                    (Eu sou a Yasmin Ahmed el Bacha, tenho 17 anos e quero cursar Medicina.)
                                 </p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="fs text-start"> 
+                    <div class="fs text-start">
                         <p style="margin-top:20px; margin-bottom: 30px">Nosso projeto é
                             uma iniciativa
                             estudantil que tem
@@ -212,7 +211,8 @@ export default {
 </script>
       
       <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>.img {
+<style scoped>
+.img {
     display: flex
 }
 
