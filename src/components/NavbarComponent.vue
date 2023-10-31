@@ -9,7 +9,7 @@
                             Hope</p>
                     </div>
                     <div class="dvlogo pt-3 ">
-                        <p class="text-start fs-6 links ">Saúde
+                        <p class="text-start fs-5  nome-empresa">Saúde
                             Mental</p>
                     </div>
                 </div>
@@ -22,7 +22,7 @@
                 <a class="text link-offset-2 link-underline link-underline-opacity-0" href="#"
                     @click="$router.push({ path: '/Depoimentos' })">Depoimentos</a>
                 <a class="text link-offset-2 link-underline link-underline-opacity-0" href="#"
-                    @click="$router.push({ path: '/Termos' })">Termos</a>
+                    @click="$router.push({ path: '/Termos' })">Termos e Condições</a>
             </div>
         </div>
 
@@ -63,6 +63,7 @@ export default {
 }
 
 .nome-empresa {
+
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #E3E3E3;
 }
