@@ -2,24 +2,29 @@
     <!-- <img class="img img-fluid" src="../assets/img/ImgHome.png"> -->
     <div class="video-background" style="height: 100vh;">
 
-        <div class="rainbow-overlay"></div>
-        <div class="container">
-        <div class="row d-flex justify-content-center pt-5">
-            <div classs="col"></div>
-            <div class="col-10">
-                <h2 class="pt-5" style="z-index: 10;">
-                Efeitos da hospitalização no estado emocional e psicológicos dos pacientes afetados por doenças crônicas e
-                internação
-            </h2>
+        <div class="">
+            <div class="container">
+                <div class="row d-flex justify-content-center pt-5">
+                    <div classs="col"></div>
+                    <div class="col-10">
+                        <h2 class="pt-5" style="z-index: 200;color: rgb(70, 68, 68);">
+                            Efeitos da hospitalização no estado emocional e psicológicos dos pacientes afetados por doenças
+                            crônicas e
+                            internação
+                        </h2>
+                    </div>
+
+                    <div classs="col"></div>
+                </div>
+            </div>
+            <div class="rainbow-overlay">
+
+                <video autoplay loop muted playsinline class="background-video rainbow-overlay">
+                    <source src="@/assets/img/file.mp4" type="video/mp4">
+                    Seu navegador não suporta a reprodução de vídeos.
+                </video>
+            </div>
         </div>
-            
-            <div classs="col"></div>
-        </div>
-</div>
-        <video autoplay loop muted playsinline class="background-video">
-            <source src="@/assets/img/file.mp4" type="video/mp4">
-            Seu navegador não suporta a reprodução de vídeos.
-        </video>
 
 
     </div>
@@ -81,7 +86,7 @@ export default {
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: 0;
+    z-index: -1;
     /* background: linear-gradient(to bottom, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); */
     opacity: 0.35;
     /* 5% de opacidade */
@@ -97,7 +102,7 @@ export default {
     min-height: 100%;
     width: auto;
     height: auto;
-    z-index: -1;
+    z-index: -2;
     object-fit: cover;
 }
 
