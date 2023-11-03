@@ -87,6 +87,88 @@
                     </ol>
 
                 </div>
+
+                <div class="mt-5 mb-5">
+                    <p class="text-start">
+                        Relato da estudante do terceiro ano do ensino médio do colégio Guilherme Dumont Vilares,
+                        <strong>Pietra
+                            Maciel Cassimiro</strong>, que prestará para faculdade de Design em 2024. Paciente de remissão
+                        completa de
+                        Leucemia Linfoide Aguda (LLA), cujo é um câncer no sangue.. Realizamos algumas perguntas para a
+                        estudante, sendo elas:
+                    </p>
+                    <ol class="text-start">
+                        <li><strong>Mais alguém da família teve câncer? Se sim, como foi viver com um familiar com
+                                câncer?</strong>
+                        </li>
+                        <p>
+                            Sua mãe teve câncer de mama quando Pietra era nova, por isso não se recorda e acredita que isso
+                            não a tenha afetado de forma considerável.
+
+                        </p>
+
+
+                        <li><strong>Qual era a sensação sobre o ambiente hospitalar?</strong>
+                        </li>
+                        <p>
+                            Confusão, pois era muito nova para entender a doença, mas se sentia presa e não via a hora de
+                            sair, pois passou 1 mês no quarto da UTI.
+
+                        </p>
+
+                        <li><strong>Sentia-se ansiosa ou deprimida?
+                            </strong></li>
+                        <p>
+                            Não sabe dizer, mas foi desconfortável pois se sentia presa e não podia fazer nada, pensando o
+                            que poderia ter feito antes de tudo ir ter acontecido.
+
+                        </p>
+                        <li><strong>Como foi passar por tudo isso? E como o LLA te afeta hoje em dia?
+                            </strong></li>
+                        <p>
+                            Alega que foi muito difícil, pois tinha que fazer muitos exames. Como sabe pelo que passou e
+                            como foi forte, tem como meta aproveitar ao máximo tudo que ela pode fazer, agora que está bem,
+                            e também compara que não deve ficar mal por qualquer coisa, considerando que venceu uma situação
+                            extremamente difícil.
+                        </p>
+                        <li><strong>Quando foi considerada livre do câncer? E qual a sensação de depois de tudo pelo que
+                                passou estar livre da doença?</strong></li>
+                        <p>
+                            Foi considerada livre do câncer aos 12 anos, e teve câncer durante 4 anos, ou seja, começou com
+                            8. Ela se sentiu literalmente livre, ia poder entrar na piscina pois nem podia tomar banho
+                            direito.
+                        </p>
+                        <li><strong>Durante o processo de internação e luta contra a doença, você entendia o que estava
+                                acontecendo?</strong></li>
+                        <p>
+                            Sim, pois sempre ia atrás e perguntava o que estavam fazendo com ela e o que estava acontecendo.
+                        </p>
+                        <li><strong>Fez quimio? E como foi o processo?
+                            </strong></li>
+                        <p>
+                            Sim, mas não precisou de cirurgia nem radio. Foi horrível, perdeu todos os tipos de cabelo.
+                        </p>
+                        <li><strong>Como os pais ficaram? Como é a relação sobre isso com os pais hoje em dia?
+                            </strong></li>
+                        <p>
+                            Ficaram destruídos, não sabiam o que fazer, e ficaram mais preocupados do que ela mesma.Não
+                            falam muito sobre, pois deixaram para trás, mas os pais ficam falando para tomar cuidado para
+                            não acontecer de novo.
+                        </p>
+                        <li><strong>Como era a relação com os médicos?</strong></li>
+                        <p>
+                            Era muito boa, pois sempre tentavam tranquilizar e confortar ela, mostrando tudo que eles iam
+                            fazer, e faziam brincadeiras. Além dos voluntários do hospital que passavam em seu quarto para
+                            brincar
+                        </p>
+                        <li><strong>O ocorrido te afeta ainda hoje em dia?</strong></li>
+                        <p>
+                            Não, mas é meio difícil falar sobre pois antes ela não comentava direito, então agora fica mais
+                            complicado falar.</p>
+
+                    </ol>
+
+                </div>
             </div>
             <div class="col">
 
