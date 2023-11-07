@@ -28,7 +28,7 @@
                                     style=" width: 200px; height: 250px;">
                             </div>
                             <div class=" pt-3" style="width: 300px; height: 75px;">
-                                <p class="text-start d-flex justify-content-center">
+                                <p class=" d-flex justify-content-center">
                                     "Eu sou a Letícia Masini Andreotti, tenho 18 anos e quero cursar
                                     Psicologia."
                                 </p>
@@ -40,7 +40,7 @@
                                 <img class="img img-fluid" src="../assets/img/Ana.png" style="width: 200px; height: 250px;">
                             </div>
                             <div class=" pt-3" style="width: 300px; height: 75px;">
-                                <p class=" d-flex justify-content-center text-start">
+                                <p class=" d-flex justify-content-center ">
                                     "Eu sou a Ana Bárbara Perri Andrade Feitosa De Souza, tenho 18 anos e quero cursar
                                     Medicina."
                                 </p>
@@ -53,7 +53,7 @@
                                     style="width: 200px; height: 250px;">
                             </div>
                             <div class="  pt-3" style="width: 300px; height: 75px;">
-                                <p class="text-start d-flex justify-content-center">
+                                <p class="d-flex justify-content-center">
                                     "Eu sou a Yasmin Ahmed el Bacha, tenho 17 anos e quero cursar Medicina."
                                 </p>
                             </div>
