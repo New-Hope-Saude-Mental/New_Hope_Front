@@ -23,12 +23,12 @@
                     </div>
                     <div class="d-flex flex-wrap justify-content-center">
                         <div class=" m-auto align-items-end">
-                            <div class="flex-shrink-0">
+                            <div class="flex-shrink-0 d-flex justify-content-center">
                                 <img class="img img-fluid" src="../assets/img/Leticia.png"
                                     style=" width: 200px; height: 250px;">
                             </div>
-                            <div class="flex-grow-4 pt-3" style="width: 15vh;">
-                                <p class="text-start">
+                            <div class="flex-grow-4 pt-3" style="width: 350px;">
+                                <p class="text-start d-flex justify-content-center">
                                     (Eu sou a Letícia Masini Andreotti, tenho 18 anos e quero cursar
                                     Psicologia.)
                                 </p>
@@ -36,23 +36,23 @@
 
                         </div>
                         <div class=" m-auto align-items-end">
-                            <div class="flex-shrink-0">
+                            <div class="flex-shrink-0 d-flex justify-content-center">
                                 <img class="img img-fluid" src="../assets/img/Ana.png" style="width: 200px; height: 250px;">
                             </div>
-                            <div class="flex-grow-1 pt-3" style="width: 15vh;">
-                                <p class="text-start">
+                            <div class="flex-grow-1 pt-3" style="width: 350px;">
+                                <p class=" d-flex justify-content-center text-start">
                                     (Eu sou a Ana Bárbara Perri Andrade Feitosa De Souza, tenho 18 anos e quero cursar
                                     Medicina.)
                                 </p>
                             </div>
                         </div>
-                        <div class="m-auto align-items-end">
-                            <div class="flex-shrink-0 ">
+                        <div class="m-auto ">
+                            <div class="d-flex justify-content-center ">
 
                                 <img class="img img-fluid" src="../assets/img/Yasmin.png"
                                     style="width: 200px; height: 250px;">
                             </div>
-                            <div class="flex-grow-1 pt-3" style="width: 15vh;">
+                            <div class="d-flex justify-content-center  pt-3" style="width: 350px;">
                                 <p class="text-start">
                                     (Eu sou a Yasmin Ahmed el Bacha, tenho 17 anos e quero cursar Medicina.)
                                 </p>
