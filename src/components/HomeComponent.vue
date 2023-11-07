@@ -29,8 +29,8 @@
                             </div>
                             <div class="flex-grow-4 pt-3" style="width: 350px;">
                                 <p class="text-start d-flex justify-content-center">
-                                    (Eu sou a Letícia Masini Andreotti, tenho 18 anos e quero cursar
-                                    Psicologia.)
+                                    "Eu sou a Letícia Masini Andreotti, tenho 18 anos e quero cursar
+                                    Psicologia."
                                 </p>
                             </div>
 
@@ -41,8 +41,8 @@
                             </div>
                             <div class="flex-grow-1 pt-3" style="width: 350px;">
                                 <p class=" d-flex justify-content-center text-start">
-                                    (Eu sou a Ana Bárbara Perri Andrade Feitosa De Souza, tenho 18 anos e quero cursar
-                                    Medicina.)
+                                    "Eu sou a Ana Bárbara Perri Andrade Feitosa De Souza, tenho 18 anos e quero cursar
+                                    Medicina."
                                 </p>
                             </div>
                         </div>
@@ -54,7 +54,7 @@
                             </div>
                             <div class="d-flex justify-content-center  pt-3" style="width: 350px;">
                                 <p class="text-start">
-                                    (Eu sou a Yasmin Ahmed el Bacha, tenho 17 anos e quero cursar Medicina.)
+                                    "Eu sou a Yasmin Ahmed el Bacha, tenho 17 anos e quero cursar Medicina."
                                 </p>
                             </div>
                         </div>
