@@ -4,7 +4,7 @@ import NavbarComponent from "../components/NavbarComponent.vue";
 import PerguntasView from "../components/PerguntasView.vue";
 import InformacoesView from "../components/InformacoesView.vue";
 import DepoimentosView from "../components/DepoimentosView.vue";
-// import FooterComponent from '../components/FooterComponent.vue'
+import HelloWorld from '../components/HelloWorld.vue'
 import TermosView from "@/components/TermosView.vue";
 
 const routes = [
@@ -38,11 +38,11 @@ const routes = [
     name: "TermosView",
     component: TermosView,
   },
-  // {
-  //   path: '/Footer',
-  //   name: 'FooterComponent',
-  //   component:FooterComponent,
-  // },
+  {
+    path: '/teste',
+    name: 'HelloWorld',
+    component:HelloWorld,
+  },
 ];
 
 export const router = createRouter({
