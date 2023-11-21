@@ -59,29 +59,53 @@
                                 </div>
                                 <div class="modal-body  text-black">
                                     <div class="d-flex flex-column">
-                                        <h4>
-                                            Participantes:
-                                        </h4>
-                                        <h5>
-                                            Larissa de Oliveira Santos.
-                                        </h5>
-                                        <h5>
-                                            William Victor Soares Silva Marques Fraga.
-                                        </h5>
+                                        <div class="d-flex flex-column mt-3">
+                                            <h4>
+                                                Participantes:
+                                            </h4>
+                                            <h5>
+                                                Larissa de Oliveira Santos.
+                                            </h5>
+                                            <div class="d-flex">
+                                                <h6>
+                                                    <Strong>Email:</Strong>
+                                                </h6>
+                                                <h6>
+                                                    larisan970@gmail.com
+                                                </h6>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex flex-column mt-3">
+                                            <h5>
+                                                William Victor Soares Silva Marques Fraga.
+                                            </h5>
+                                            <div class="d-flex">
+                                                <h6>
+                                                    <Strong>Email:</Strong>
+                                                </h6>
+                                                <h6>
+                                                    william.fraga@fatec.sp.gov.br
+                                                </h6>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div>
-                                        <h4>
-                                            Cursando:
-                                        </h4>
-                                        <h5>
-                                            Desenvolvimento de Software Multiplataforma. 4°Semestre
-                                        </h5>
-                                        <h5>
-                                            Instituição de ensino:
-                                        </h5>
-                                        <h5>
-                                            Fatec Zona Sul - Dom Paulo Evaristo Arns
-                                        </h5>
+                                    <div class="mt-3">
+                                        <div class="d-flex">
+                                            <h6>
+                                                <Strong> Cursando:</Strong>
+                                            </h6>
+                                            <h6>
+                                                Desenvolvimento de Software Multiplataforma. 4°Semestre
+                                            </h6>
+                                        </div>
+                                        <div class="d-flex">
+                                            <h6>
+                                                <Strong> Instituição de ensino:</Strong>
+                                            </h6>
+                                            <h6>
+                                                Fatec Zona Sul - Dom Paulo Evaristo Arns
+                                            </h6>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="modal-footer">
