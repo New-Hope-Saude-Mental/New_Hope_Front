@@ -200,29 +200,32 @@
 
                     <div>
                         <ul>
-                        <li class="text-start">
-                            Gammon encontrou que os pacientes que estavam em quartos de isolamento demonstraram mais
-                            sentimentos de
-                            ansiedade, depressão e baixa auto-estima do que os pacientes que receberam cuidados em quartos
-                            hospitalares
-                            compartilhados
-                        </li>
-                        <li class="text-start">
-                            Chiarchiaro encontrou um declínio acentuado em emocional, funcional e físico bem-estar após a
-                            internação
-                            dos
-                            pacientes na unidade de terapia intensiva.
-                        </li>
-                        <li class="text-start">
-                            Timmerman e Olsen relatam que a luz solar nos quartos dos pacientes desempenhou um papel crucial
-                            no
-                            apoio a
-                            pensamentos e emoções positivas entre pacientes gravemente enfermos. Também descobriram que
-                            olhar para a
-                            natureza através das janelas melhorava o humor e as emoções dos pacientes, conectando-os com
-                            suas
-                            memórias.
-                        </li>
+                            <li class="text-start">
+                                Gammon encontrou que os pacientes que estavam em quartos de isolamento demonstraram mais
+                                sentimentos de
+                                ansiedade, depressão e baixa auto-estima do que os pacientes que receberam cuidados em
+                                quartos
+                                hospitalares
+                                compartilhados
+                            </li>
+                            <li class="text-start">
+                                Chiarchiaro encontrou um declínio acentuado em emocional, funcional e físico bem-estar após
+                                a
+                                internação
+                                dos
+                                pacientes na unidade de terapia intensiva.
+                            </li>
+                            <li class="text-start">
+                                Timmerman e Olsen relatam que a luz solar nos quartos dos pacientes desempenhou um papel
+                                crucial
+                                no
+                                apoio a
+                                pensamentos e emoções positivas entre pacientes gravemente enfermos. Também descobriram que
+                                olhar para a
+                                natureza através das janelas melhorava o humor e as emoções dos pacientes, conectando-os com
+                                suas
+                                memórias.
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -236,64 +239,53 @@
                             Referências
                         </h1>
                         <h5 class="mt-5 text-start" style="font-size: medium;">
-                            - LIU, Y. et al. The effects of comprehensive mental intervention on the recovery time of
-                            patients with
-                            postsurgical gastroparesis syndrome. Journal of Clinical Nursing, 5 abr. 2014.‌
+                            OVERVIEW World mental health report: Transforming mental health for all. Estados Unidos da
+                            América: World Health Organization, 16 de junho de 2022.
+
 
                             <br />
                             <br />
 
-                            -OVERVIEW World mental health report: Transforming mental health for all. Estados Unidos da
-                            América:
-                            World
-                            Health Organization, 16 de junho de 2022.
+                            WORLD mental health report: transforming mental health for all. Geneva: World Health
+                            Organization, 16 de junho de 2022.
 
                             <br />
                             <br />
 
-                            -PRINA, Matthew et al. The association between depressive symptoms in the community,
-                            non-psychiatric
-                            hospital admission and hospital outcomes: A systematic review. Reino Unido, 8 de novembro de
-                            2014.
+                            VLAKE, Johan et al. Virtual reality for relatives of ICU patients to improve psychological
+                            sequelae: study protocol for a multicentre, randomized controlled trial; 14 de setembro de 2021.
 
                             <br />
                             <br />
 
-                            -SULLIVAN,Erin et al. The association between posttraumatic stress symptoms, depression, and
-                            length of
-                            hospital stay following traumatic injury. Estados Unidos da América: 9 de Março de 2017.
+                            PRINA, Matthew et al. The association between depressive symptoms in the community,
+                            non-psychiatric hospital admission and hospital outcomes: A systematic review. Reino Unido, 8 de
+                            novembro de 2014.
 
                             <br />
                             <br />
 
-                            -TIMMERMAN, Olsen e Gammon. The effect of hospitalization on patients' emotional and
-                            psychological
+                            Naif Alzahrani. The effect of hospitalization on patients' emotional and psychological
                             well-being among adult patients: An integrative review. Naif Alzahrani. Arábia Saudita: 12
-                            Agosto de
-                            2021.
+                            Agosto de 2021.
 
                             <br />
                             <br />
 
-                            -VLAKE, Johan et al. Virtual reality for relatives of ICU patients to improve psychological
-                            sequelae:
-                            study
-                            protocol for a multicentre, randomized controlled trial; 14 de setembro de 2021.
+                            LIU, Y. et al. The effects of comprehensive mental intervention on the recovery time of patients
+                            with postsurgical gastroparesis syndrome. Journal of Clinical Nursing, 5 abr. 2014.
+                            <br />
+                            <br />
+
+                            Kele Ding elt al.. Hospitalizations and hospital charges for co-occurring substance use and
+                            mental disorders. Estados Unidos da América: 28 de Fevereiro de 2011
 
                             <br />
                             <br />
 
-                            -WORLD mental health report: transforming mental health for all. Geneva: World Health
-                            Organization, 16
-                            de
-                            junho de 2022.
-
-                            <br />
-                            <br />
-
-                            -YANG, Jingzhen. Hospitalizations and hospital charges for co-occurring substance use and mental
-                            disorders.
-                            Estados Unidos da América: 28 de Fevereiro de 2011
+                            SULLIVAN,Erin et al. The association between posttraumatic stress symptoms, depression, and
+                            length of hospital stay following traumatic injury. Estados Unidos da América: 9 de Março de
+                            2017.
                         </h5>
                     </div>
                 </div>

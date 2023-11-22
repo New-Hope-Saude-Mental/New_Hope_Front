@@ -35,7 +35,7 @@
                             Desenvolvido por:
                         </div>
                         <div>
-                            Larrissa
+                            Larissa
                         </div>
                         <div>
                             William
