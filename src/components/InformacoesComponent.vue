@@ -134,7 +134,7 @@
 
                         <div style="margin-top: 5rem;">
                             <h1 class="d-flex justify-content-start mt-5">
-                                DADOS COLETADOS
+                                DADOS ENCONTRADOS
                             </h1>
                         </div>
 
